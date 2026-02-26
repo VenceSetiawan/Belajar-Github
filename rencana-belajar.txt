@@ -1,3 +1,4 @@
 - menguasai html
 - menguasai css beserta framework tailwind
 - pelajari node.js
+- memperkuat struktur dasar
