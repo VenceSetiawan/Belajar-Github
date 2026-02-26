@@ -1,5 +1,7 @@
 Resolusi Belajar : 
 - Konsisten Belajar Javascript
 - Menjadi Full Stack Javascript
+  ^ kuasai node.js
+  ^ kuasai nest.js
 - Mendapat pekerjaan menjadi seoarang Full Stack Developer
 - Menjadi Pribadi yang Baik
